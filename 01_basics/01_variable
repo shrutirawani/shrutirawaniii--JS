@@ -1,0 +1,17 @@
+ const accountID = 12345
+ let accountEmail = ("shruti@gmail.com")
+ var accountPassword = ("abcd")
+ accountCity = ("Delhi")
+
+ // accountID = 2345 // not allowed 
+
+ accountEmail = ("htm@gmail.com")
+ accountPassword = ("efgh")
+ accountCity = ("Jaipur")
+
+/*
+avoid using var 
+because it causes issues with block scopes and functional scope 
+*/
+
+ console.table ({accountID, accountEmail, accountPassword, accountCity})
