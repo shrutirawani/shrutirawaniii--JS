@@ -1,0 +1,29 @@
+"use strict" // treat all JS code as newer version of js// 
+
+// alert (3+3) // it won't give results in node.js but in browser 
+
+console.log(3+ // your code should be readable and it should be high// 
+    3) 
+
+    // console.log ("Shruti") // this is the best way to write it// 
+
+    // DATA TYPES//
+
+    let name = "Shruti"
+    let age = 21
+    //let isLoggedIn = False
+    let state;
+
+    // number = 2 to power of 53 
+    //bigint = larger numbers
+    // string = ""
+    //boolean = true/false 
+    //null = standalone value 
+    //undefined = where value isn't given 
+    //object 
+    // symbol = unique value 
+
+
+    console.log(typeof age)
+    console.log(typeof null) // input is object
+    console.log(typeof undefined) // input is undefined 
